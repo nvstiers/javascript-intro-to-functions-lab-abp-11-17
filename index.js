@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   if (string.toEqual('hello')) {
     return "I can't hear you!";
   }
-
+}
   else if (string.toEqual('HELLO')) {
     return 'YES INDEED';
   }
